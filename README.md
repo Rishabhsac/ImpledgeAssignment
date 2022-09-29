@@ -11,5 +11,7 @@ Need to run the finder.java file after cloning all the files and text files in a
 
 
 Used trie data structure to solve the given problem.
+
 There are 3 classes named as Trie, Pair and Finder.
+
 Finder class contains the actual implementation of the solution.
